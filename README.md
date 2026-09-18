@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Adir Alejandro Navarro Cordero
 
-<!--
-**neutrolee965-tech/neutrolee965-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Sistemas**  
+💻 Apasionado por la **programación y el desarrollo de software**  
+🚀 Siempre aprendiendo y desarrollando nuevos proyectos.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java
+- 🗄️ SQL
+- 🐘 PostgreSQL
+- 🍃 Spring Boot
+- ⚛️ React
+- 🌐 JavaScript
+- 🔧 Git & GitHub
+
+## 🎯 Sobre mí
+
+Me interesa el desarrollo de aplicaciones, las bases de datos y la creación de soluciones tecnológicas. Actualmente continúo fortaleciendo mis conocimientos en desarrollo **Backend y Web**.
+
+## 📚 Actualmente aprendiendo
+
+`Java` • `Spring Boot` • `PostgreSQL` • `React` • `Arquitectura de Software`
+
+---
+⭐ **Aprendiendo, programando y construyendo.**
